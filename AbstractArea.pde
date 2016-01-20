@@ -1,3 +1,4 @@
+
 abstract class AbstractArea {
   int posX;
   int posY;
@@ -9,5 +10,6 @@ abstract class AbstractArea {
     this.yoko = yoko;
     this.tate = tate;
   }
+  
+  abstract void draw();
 
-}
