@@ -12,4 +12,4 @@ abstract class AbstractArea {
   }
   
   abstract void draw();
-
+}
